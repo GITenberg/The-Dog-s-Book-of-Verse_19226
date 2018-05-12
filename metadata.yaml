@@ -9,6 +9,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19226#The-Dog-s-Book-of-Verse
 gutenberg_bookshelf:
 - Animals-Domestic
 - Bibliomania
