@@ -1,0 +1,27 @@
+_repo: The-Dog-s-Book-of-Verse_19226
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Clauson, J. Earl
+    gutenberg_agent_id: '37817'
+    url: http://www.gutenberg.org/2009/agents/37817
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_bookshelf:
+- Animals-Domestic
+- Bibliomania
+gutenberg_issued: '2006-09-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19226'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dogs -- Poetry'
+- !lcc 'PN'
+title: The Dog's Book of Verse
+url: http://www.gutenberg.org/ebooks/19226
